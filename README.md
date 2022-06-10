@@ -2,18 +2,20 @@
 
 Este é um dos **[cursos](https://www.youtube.com/watch?v=y8XfJJYhXPE&t=2s&ab_channel=MatheusBattisti-HoradeCodar 'Curso AdonisJS')** sobre o **[Framework AdonisJS](https://adonisjs.com/)** ministrado pelo professor **[Matheus Battisti](https://github.com/matheusbattisti 'Repositório do professor Matheus Battisti')** do canal do YouTube **[Matheus Battisti - Hora de Codar](https://www.youtube.com/c/MatheusBattisti 'Matheus Battisti - Hora de Codar')**.
 
+:file_folder: Usando npm ou yarn, o primeiro passo antes da instalação é **[clonar o projeto](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository "Como clonar um projeto")**.
+
 ## Instalação
 
 O [AdonisJS](https://adonisjs.com/) permite o uso com [npm](https://docs.npmjs.com/ 'Node Package Manager') ou [yarn](https://yarnpkg.com/).
 
-Para usar o npm:
+### Para usar o npm:
 
 1. No diretório root (moments) destrua o arquivo yarn.lock
 2. Para Instalar qualquer pacote use o comando: [`npm install [<@scope>/]<pkg>`](https://docs.npmjs.com/cli/v8/commands/npm-install 'Como instalar os pacotes usando o npm cli')
 3. Para instalar todas as dependências `npm install` ou `npm i`
 4. Visite o [npm](https://docs.npmjs.com/ 'Node Package Manager') para conhecer mais
 
-Para usar o yarn:
+### Para usar o yarn:
 
 1. No diretório root (moments) destrua o arquivo package-lock.json
 2. Para instalar todas as dependências/pacotes use comando [`yarn ou yarn install`](https://yarnpkg.com/getting-started/usage#installing-all-the-dependencies)
@@ -22,7 +24,7 @@ Para usar o yarn:
 
 ### Em um terminal de sua preferência execute estes comandos:
 
-#### Usando o yarn:
+### Usando o yarn:
 
 1. `yarn` ou `yarn install`
 2. `node ace serve`
